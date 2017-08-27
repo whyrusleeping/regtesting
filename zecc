@@ -1,0 +1,2 @@
+#!/bin/bash
+zcash-cli -regtest -datadir=$(pwd)/zcashdir $@
